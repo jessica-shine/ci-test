@@ -1,0 +1,1 @@
+print "hello, nerdz. this is test"
